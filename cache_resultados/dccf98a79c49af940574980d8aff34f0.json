@@ -1,0 +1,37 @@
+{
+  "url": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/07/Chamada_Publica_24_2025.pdf",
+  "timestamp": "2025-10-02T16:38:15.555516",
+  "conteudo": {
+    "url_pdf": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/07/Chamada_Publica_24_2025.pdf",
+    "valores": {
+      "valor_total": 998400.0,
+      "valor_por_projeto": null,
+      "quantidade_projetos": null,
+      "contrapartida": null
+    },
+    "datas": {
+      "inscricoes_inicio": null,
+      "inscricoes_fim": null,
+      "resultado_preliminar": "2",
+      "resultado_final": "2025",
+      "execucao_inicio": null,
+      "execucao_fim": null
+    },
+    "publico_alvo": [
+      "Pesquisadores",
+      "Estudantes",
+      "Empreendedores"
+    ],
+    "requisitos": [],
+    "areas_tematicas": [
+      "Saúde",
+      "Tecnologia",
+      "Meio Ambiente",
+      "Educação",
+      "Inovação",
+      "Ciências Sociais"
+    ],
+    "tamanho_texto": 65378,
+    "numero_paginas": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/05/Resultado_Final_Visitante_2025__1_.pdf",
+  "timestamp": "2025-10-02T16:38:27.311318",
+  "conteudo": {
+    "url_pdf": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/05/Resultado_Final_Visitante_2025__1_.pdf",
+    "valores": {
+      "valor_total": 800000.0,
+      "valor_por_projeto": null,
+      "quantidade_projetos": null,
+      "contrapartida": null
+    },
+    "datas": {
+      "inscricoes_inicio": null,
+      "inscricoes_fim": null,
+      "resultado_preliminar": null,
+      "resultado_final": "05/2025",
+      "execucao_inicio": null,
+      "execucao_fim": null
+    },
+    "publico_alvo": [
+      "Pesquisadores",
+      "ICTs"
+    ],
+    "requisitos": [],
+    "areas_tematicas": [
+      "Educação"
+    ],
+    "tamanho_texto": 8569,
+    "numero_paginas": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "url": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/05/Chamada_15_2025____PPSUS_GO_8__1__Retificacao-1.pdf",
+  "timestamp": "2025-10-02T16:38:19.765157",
+  "conteudo": {
+    "url_pdf": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/05/Chamada_15_2025____PPSUS_GO_8__1__Retificacao-1.pdf",
+    "valores": {
+      "valor_total": 4000000.0,
+      "valor_por_projeto": null,
+      "quantidade_projetos": null,
+      "contrapartida": null
+    },
+    "datas": {
+      "inscricoes_inicio": null,
+      "inscricoes_fim": null,
+      "resultado_preliminar": "08/10/20254",
+      "resultado_final": "10",
+      "execucao_inicio": null,
+      "execucao_fim": null
+    },
+    "publico_alvo": [
+      "Pesquisadores",
+      "Estudantes",
+      "Empresas",
+      "Empreendedores"
+    ],
+    "requisitos": [
+      ". EIXOS TEMÁTICOS E LINHAS DE PESQUISA  ................................ ................................ .......................  8 ",
+      ". CRONOGRAMA  ................................ ................................ ................................ ............................  10 ",
+      ". RECURSOS FINANCEIROS  ................................ ................................ ................................ ..............  11 ",
+      ". ITENS FINANCIÁVEIS  ................................ ................................ ................................ .....................  11 ",
+      ". PRAZO DE EXECUÇÃO DOS PROJETOS ................................ ................................ ............................  14 ",
+      ". PRÉ -SELEÇÃO – ETAPAS I, II e III  ................................ ................................ ................................ .... 14 ",
+      ". SELEÇÃO FINAL – ETAPAS IV e V  ................................ ................................ ................................ .... 17 ",
+      "0. RESULTADO DO JULGAMENTO  ................................ ................................ ................................ .... 19 ",
+      "1. DOS RECURSOS ADMINISTRATIVOS  ................................ ................................ .............................  19 ",
+      "2. DA CONTRATAÇÃO DOS PROJETOS APROVADOS  ................................ ................................ ..........  19 "
+    ],
+    "areas_tematicas": [
+      "Saúde",
+      "Tecnologia",
+      "Educação",
+      "Inovação",
+      "Ciências Sociais",
+      "Engenharia"
+    ],
+    "tamanho_texto": 94263,
+    "numero_paginas": 0
+  }
+}

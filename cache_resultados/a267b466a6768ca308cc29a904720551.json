@@ -1,0 +1,36 @@
+{
+  "url": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/05/Resultado_Final_Lote_2___Ed_Bolsas_de_formacao_2025.pdf",
+  "timestamp": "2025-10-02T16:38:28.361722",
+  "conteudo": {
+    "url_pdf": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/05/Resultado_Final_Lote_2___Ed_Bolsas_de_formacao_2025.pdf",
+    "valores": {
+      "valor_total": null,
+      "valor_por_projeto": null,
+      "quantidade_projetos": null,
+      "contrapartida": null
+    },
+    "datas": {
+      "inscricoes_inicio": null,
+      "inscricoes_fim": null,
+      "resultado_preliminar": "5",
+      "resultado_final": "2",
+      "execucao_inicio": null,
+      "execucao_fim": null
+    },
+    "publico_alvo": [
+      "Estudantes"
+    ],
+    "requisitos": [],
+    "areas_tematicas": [
+      "Saúde",
+      "Tecnologia",
+      "Agricultura",
+      "Energia",
+      "Meio Ambiente",
+      "Educação",
+      "Engenharia"
+    ],
+    "tamanho_texto": 7731,
+    "numero_paginas": 0
+  }
+}

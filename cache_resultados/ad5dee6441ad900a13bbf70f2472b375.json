@@ -1,0 +1,40 @@
+{
+  "url": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/09/Edital_27_2025_3_Retificacao_V2.pdf",
+  "timestamp": "2025-10-02T16:38:13.707078",
+  "conteudo": {
+    "url_pdf": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/09/Edital_27_2025_3_Retificacao_V2.pdf",
+    "valores": {
+      "valor_total": 2352000.0,
+      "valor_por_projeto": null,
+      "quantidade_projetos": null,
+      "contrapartida": null
+    },
+    "datas": {
+      "inscricoes_inicio": "26/08/2025",
+      "inscricoes_fim": "23/10/2025",
+      "resultado_preliminar": "07/11/2025",
+      "resultado_final": "19/11/2025",
+      "execucao_inicio": null,
+      "execucao_fim": null
+    },
+    "publico_alvo": [
+      "Pesquisadores",
+      "Estudantes",
+      "Empresas",
+      "Empreendedores"
+    ],
+    "requisitos": [],
+    "areas_tematicas": [
+      "Saúde",
+      "Tecnologia",
+      "Agricultura",
+      "Energia",
+      "Meio Ambiente",
+      "Educação",
+      "Inovação",
+      "Engenharia"
+    ],
+    "tamanho_texto": 64101,
+    "numero_paginas": 0
+  }
+}

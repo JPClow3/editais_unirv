@@ -1,0 +1,30 @@
+{
+  "url": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/03/Resultado_Final_Tecnova_III_Data_corrigida.pdf",
+  "timestamp": "2025-10-02T16:38:21.731201",
+  "conteudo": {
+    "url_pdf": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/03/Resultado_Final_Tecnova_III_Data_corrigida.pdf",
+    "valores": {
+      "valor_total": null,
+      "valor_por_projeto": null,
+      "quantidade_projetos": null,
+      "contrapartida": null
+    },
+    "datas": {
+      "inscricoes_inicio": null,
+      "inscricoes_fim": null,
+      "resultado_preliminar": null,
+      "resultado_final": "2025141000019",
+      "execucao_inicio": null,
+      "execucao_fim": null
+    },
+    "publico_alvo": [
+      "Geral"
+    ],
+    "requisitos": [],
+    "areas_tematicas": [
+      "Multidisciplinar"
+    ],
+    "tamanho_texto": 916,
+    "numero_paginas": 0
+  }
+}

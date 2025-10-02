@@ -1,0 +1,15 @@
+# requirements.in
+
+# Web Scraping e Processamento
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Processamento de Imagem e PDF
+Pillow>=10.1.0
+PyPDF2>=3.0.0  # Adicionado para leitura de PDF
+
+# Análise de Texto (NLP)
+spacy>=3.7.4
+
+# Banco de Dados
+psycopg2-binary>=2.9.9

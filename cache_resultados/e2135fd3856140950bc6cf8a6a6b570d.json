@@ -1,0 +1,32 @@
+{
+  "url": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/07/PUBLICACAO_PORTARIA_150PRES-1.pdf",
+  "timestamp": "2025-10-02T16:38:18.057718",
+  "conteudo": {
+    "url_pdf": "https://goias.gov.br/fapeg/wp-content/uploads/sites/5/2025/07/PUBLICACAO_PORTARIA_150PRES-1.pdf",
+    "valores": {
+      "valor_total": 467438.16,
+      "valor_por_projeto": null,
+      "quantidade_projetos": null,
+      "contrapartida": null
+    },
+    "datas": {
+      "inscricoes_inicio": null,
+      "inscricoes_fim": null,
+      "resultado_preliminar": null,
+      "resultado_final": null,
+      "execucao_inicio": null,
+      "execucao_fim": null
+    },
+    "publico_alvo": [
+      "Empresas",
+      "Empreendedores"
+    ],
+    "requisitos": [],
+    "areas_tematicas": [
+      "Saúde",
+      "Ciências Sociais"
+    ],
+    "tamanho_texto": 6862,
+    "numero_paginas": 0
+  }
+}
